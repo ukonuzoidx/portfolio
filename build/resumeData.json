@@ -4,7 +4,7 @@
     "occupation": "Web/Software developer",
     "description": "I design and develop website or software applications",
     "image": "profilepicture.jpg",
-    "bio": "Hi there! I am David!. An expert coder with 5 plus years experience.. As a Full Stack developer, I've worked with both startups and large corporations helping them to expertly build & massively scale their enterprises. My passion for coding as well as the very tangible results I command has lead me into challenging myself with building Top company websites and applications.",
+    "bio": "Hi there! I am David!. An expert coder with 6 plus years experience.. As a Full Stack developer, I've worked with both startups and large corporations helping them to expertly build & massively scale their enterprises. My passion for coding as well as the very tangible results I command has lead me into challenging myself with building Top company websites and applications.",
     "contactmessage": "Get in touch with me!",
     "email": "davetochiuk@gmail.com",
     "phone": "+234 903 415 5586",
@@ -50,7 +50,7 @@
       {
         "school": "University of Abuja - Nigeria",
         "degree": "Bachelor 's Degree: Mathematics (University Education)",
-        "graduated": "Still in progress",
+        "graduated": "2017 to 2021",
         "description":""
       },
       {
@@ -67,6 +67,18 @@
       }
     ],
     "work": [
+      {
+        "company": "Weki Work",
+        "title": "Web developer",
+        "years": "November 2021 - Present",
+        "description": "Maintained existing applications and designed and delivered new applications"
+      },
+      {
+        "company": "eTranzact",
+        "title": "Web developer",
+        "years": "October 2021 - Present",
+        "description": "Maintained existing applications and designed and delivered new applications"
+      },
       {
         "company": "Landvigo",
         "title": "Web developer",
@@ -146,6 +158,18 @@
         "category": "",
         "image": "market.png",
         "url": "https://marketcomfort.com.ng"
+      },
+      {
+        "title": "Dropie",
+        "category": "",
+        "image": "dropie.png",
+        "url": "https://dropie.ng/#/"
+      }, 
+      {
+        "title": "Landvigo",
+        "category": "",
+        "image": "landvigo.png",
+        "url": "https://landvigo.com/"
       }
     ]
   },
