@@ -1,0 +1,188 @@
+{
+  "main": {
+    "name": "David Ukonu Tochukwu",
+    "occupation": "Web/Software developer",
+    "description": "I design and develop website or software applications",
+    "image": "profilepicture.jpg",
+    "bio": "Hi there! I am David!. An expert coder with 6 plus years experience.. As a Full Stack developer, I've worked with both startups and large corporations helping them to expertly build & massively scale their enterprises. My passion for coding as well as the very tangible results I command has lead me into challenging myself with building Top company websites and applications.",
+    "contactmessage": "Get in touch with me!",
+    "email": "davetochiuk@gmail.com",
+    "phone": "+234 903 415 5586",
+    "address": {
+      "street": "No 9 Momoh Sani",
+      "city": "Gwagwalada",
+      "state": "FCT Abuja",
+      "zip": "902101"
+    },
+    "website": "https://codingcamp.com",
+    "resumedownload": "ukonu_david_cv.pdf",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://web.facebook.com/david.tochukwu.5492",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/david-ukonu-11579216a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ukonu_zoidx/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ukonuzoidx",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Abuja - Nigeria",
+        "degree": "Bachelor 's Degree: Mathematics (University Education)",
+        "graduated": "2017 to 2021",
+        "description":""
+      },
+      {
+        "school": "Christ Academy International, Abuja, Nigeria",
+        "degree": "West African Senior School Certificate (Secondary Education)",
+        "graduated": "2011 to 2017",
+        "description":""
+      },
+      {
+        "school": "Madonna International Nursey and Primary School, Abuja, Nigeria",
+        "degree": "First School Leaving Certificate (Primary Education)",
+        "graduated": "2006 to 2011",
+        "description":""
+      }
+    ],
+    "work": [
+      {
+        "company": "Weki Work",
+        "title": "Web developer",
+        "years": "November 2021 - Present",
+        "description": "Maintained existing applications and designed and delivered new applications"
+      },
+      {
+        "company": "eTranzact",
+        "title": "Web developer",
+        "years": "October 2021 - Present",
+        "description": "Maintained existing applications and designed and delivered new applications"
+      },
+      {
+        "company": "Landvigo",
+        "title": "Web developer",
+        "years": "April 2021 - Present",
+        "description": "Maintained existing applications and designed and delivered new applications"
+      },
+      {
+        "company": "Eastern Palm University",
+        "title": "Web developer",
+        "years": "December 2020 - March 2021",
+        "description": "Designed a university portal which services Applicant, Students and University Lecturers"
+      },
+      {
+        "company": "Triune built-tech solution",
+        "title": "Web developer",
+        "years": "November 2020- Present",
+        "description": "Maintained existing applications and designed and delivered new applications."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML/CSS",
+        "level": ""
+      },
+      {
+        "name": "PHP (including Laravel and CodeIgniter)",
+        "level": ""
+      },
+      {
+        "name": "Javascript (Jquery, Vuejs and ReactJS)",
+        "level": ""
+      },
+      {
+        "name": "Flutter",
+        "level": ""
+      },
+      {
+        "name": "React Native",
+        "level": ""
+      },
+      {
+        "name": "Python (Django)",
+        "level": ""
+      },
+      {
+        "name": "Git",
+        "level": ""
+      },
+      {
+        "name": "MySQL",
+        "level": ""
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin-clone.png",
+        "url": "https://linkedin-clone-ud.web.app/"
+      },
+      {
+        "title": "WhatsApp Clone (React JS)",
+        "category": "",
+        "image": "whatsapp-clone.png",
+        "url": "https://whatsapp-clone-b34d0.web.app"
+      },
+      {
+        "title": "Fossa Site (PHP)",
+        "category": "",
+        "image": "fossa-site.png",
+        "url": "https://fossa-site.netlify.app"
+      },
+      {
+        "title": "Market Comfort (Laravel)",
+        "category": "",
+        "image": "market.png",
+        "url": "https://marketcomfort.com.ng"
+      },
+      {
+        "title": "Dropie",
+        "category": "",
+        "image": "dropie.png",
+        "url": "https://dropie.ng/#/"
+      }, 
+      {
+        "title": "Landvigo",
+        "category": "",
+        "image": "landvigo.png",
+        "url": "https://landvigo.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Working with David has been AWESOME, he makes sure the project desires are been met ",
+        "user": "Grace Kalu"
+      }
+    ]
+  }
+}
